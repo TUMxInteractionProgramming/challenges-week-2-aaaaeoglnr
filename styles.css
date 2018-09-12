@@ -68,23 +68,23 @@ ul{
 
 /* Messages */
 /*styles for chat area*/
-p {
+.message p {
     /* #2 #colorful #channelandchat */
     background-color: white;
-    padding: 16px;
+    padding: 16px;/* Set message text padding to 16 px. */
 }
 
-strong {
+.message strong {
     /* #2 #font #locations need an extra element, we'll use strong for w3w locations */
     text-transform: uppercase;
 }
 
-h3 {
+.message h3 {
     /* #2 #font #metadata is now medium */
     font-size: medium;
 }
 
-em {
+.message em {
     /* #2 #font #remaining overrides the default italic appearance of em elements*/
     font-size: larger;
     font-style: normal;
@@ -94,6 +94,6 @@ em {
   width : 80%;
 }
 
-a:link {
+.message a:link {
   color : black;
 }
