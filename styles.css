@@ -98,3 +98,7 @@ ul{
 .message a:link {
   color : black;
 }
+
+.own {
+  margin-left: 17.5%; /* Style own message differently */
+}
