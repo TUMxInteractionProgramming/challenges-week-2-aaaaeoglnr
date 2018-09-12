@@ -79,6 +79,11 @@ ul{
   margin-bottom: 4px;
 }
 
+/* The tab ‘New’ should be highlighted by default */
+#tab-bar > button.selected {
+  border-bottom: 4px solid #3F51B5;
+}
+
 /* Messages */
 /*styles for chat area*/
 .message p {
