@@ -71,6 +71,7 @@ ul{
 p {
     /* #2 #colorful #channelandchat */
     background-color: white;
+    padding: 16px;
 }
 
 strong {
