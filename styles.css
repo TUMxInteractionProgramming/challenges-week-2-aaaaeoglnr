@@ -29,8 +29,11 @@ button {
     text-transform: uppercase;
 }
 
-
-
+/* Remove ugly spacing between all components */
+* {
+  margin: 0;
+  padding: 0;  
+}
 /* App bar */
 /* Channels list */
 /* Tab bar */
