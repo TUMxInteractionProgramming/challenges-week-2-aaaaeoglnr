@@ -49,5 +49,17 @@ h1 {
 }
 
 /* Channels list */
+
+/*styles for channel area*/
+h2 {
+    /* #2 #colorful #channelandchat */
+    background-color: white;
+}
+ul{
+  /*background for channels is white and there are no bullets */
+  background-color: white;
+  list-style-type: none;
+}
+
 /* Tab bar */
 /* Messages */
