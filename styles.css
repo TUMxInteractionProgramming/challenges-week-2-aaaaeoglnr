@@ -68,8 +68,8 @@ ul{
   background-color: white; /* Give buttons in the tab bar a white background*/
   font-size: 13px; /* Set  the font size for tab bar buttons to 13px*/
   height: 72px; /* Make buttons 72 pixels high*/
+  padding: 16px;
 }
-
 
 /* Messages */
 /*styles for chat area*/
