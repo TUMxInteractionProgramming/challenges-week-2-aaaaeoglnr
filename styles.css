@@ -25,14 +25,19 @@ button {
     /* #2 #colourful #plusfive */
     background-color: #CDDC39;
     color: black;
-    /* #2 #font capital #letters */
-    text-transform: uppercase;
+
+}
+
+/*Buttons, links to w3w locations need to be uppercase */
+a, button {
+  /* #2 #font capital #letters */
+  text-transform: uppercase;
 }
 
 /* Remove ugly spacing between all components */
 * {
   margin: 0;
-  padding: 0;  
+  padding: 0;
 }
 /* App bar */
 /* Channels list */
