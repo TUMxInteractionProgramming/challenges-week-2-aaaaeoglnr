@@ -65,8 +65,10 @@ ul{
 #tab-bar > button {
   text-align: center; /*Use CSS to center the text inside the buttons*/
   border: none; /* no border */
+  background-color: white; /* Give buttons in the tab bar a white background*/
 
 }
+
 
 /* Messages */
 /*styles for chat area*/
