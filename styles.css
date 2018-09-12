@@ -67,8 +67,9 @@ ul{
   border: none; /* no border */
   background-color: white; /* Give buttons in the tab bar a white background*/
   font-size: 13px; /* Set  the font size for tab bar buttons to 13px*/
+  width: 33%; /* Set buttons width to one-third of the available width*/
   height: 72px; /* Make buttons 72 pixels high*/
-  padding: 16px;
+  padding: 16px; /* Set padding to 16px*/
 }
 
 /* Messages */
