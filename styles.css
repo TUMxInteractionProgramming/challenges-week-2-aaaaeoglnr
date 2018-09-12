@@ -39,7 +39,15 @@ a, button {
   margin: 0;
   padding: 0;
 }
+
 /* App bar */
+
+h1 {
+    /* #2 #colourful #app-bar */
+    background-color: #3F51B5;
+    color: white;
+}
+
 /* Channels list */
 /* Tab bar */
 /* Messages */
