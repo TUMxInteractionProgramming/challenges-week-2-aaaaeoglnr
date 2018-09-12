@@ -62,8 +62,10 @@ ul{
 }
 
 /* Tab bar */
-#tab-bar > * {
+#tab-bar > button {
   text-align: center; /*Use CSS to center the text inside the buttons*/
+  border: none; /* no border */
+
 }
 
 /* Messages */
