@@ -92,7 +92,8 @@ ul{
 
 .message{
   width : 80%;
-  margin-left: 2.5%; /*Left-align all messages by using margins.*/
+  margin-left: 2.5%; /* Left-align all messages by using margins.*/
+  margin-bottom: 8px; /* Set bottom margin for messages.*/
 }
 
 .message a:link {
