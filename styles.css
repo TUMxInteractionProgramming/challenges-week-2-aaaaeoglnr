@@ -62,7 +62,9 @@ ul{
 }
 
 /* Tab bar */
-
+#tab-bar > * {
+  text-align: center; /*Use CSS to center the text inside the buttons*/
+}
 
 /* Messages */
 /*styles for chat area*/
