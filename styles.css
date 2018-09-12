@@ -66,7 +66,7 @@ ul{
   text-align: center; /*Use CSS to center the text inside the buttons*/
   border: none; /* no border */
   background-color: white; /* Give buttons in the tab bar a white background*/
-
+  font-size: 13px; /*Set  the font size for tab bar buttons to 13px*/
 }
 
 
