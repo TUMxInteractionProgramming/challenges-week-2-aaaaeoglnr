@@ -72,6 +72,13 @@ ul{
   padding: 16px; /* Set padding to 16px*/
 }
 
+.tab-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4px;
+}
+
 /* Messages */
 /*styles for chat area*/
 .message p {
