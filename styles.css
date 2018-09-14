@@ -61,6 +61,11 @@ ul{
   list-style-type: none;
 }
 
+/* Highlight the color of left border of the currently selected channel */
+.selected-channel {
+  margin-left: 5px solid #3F51B5;
+}
+
 /* Tab bar */
 #tab-bar > button {
   text-align: center; /*Use CSS to center the text inside the buttons*/
