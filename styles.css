@@ -67,6 +67,8 @@ li {
   font-size: 16px;
   box-sizing: border-box;
   height: 48px;
+  /* Separate the channels tiles by thin background-colored lines.*/
+  border: 1px solid #F5F5F5;
 }
 
 /* Highlight the color of left border of the currently selected channel */
