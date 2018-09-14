@@ -13,8 +13,8 @@
 /*global styles */
 * {
     /* #2 #font #faces */
-    font-family: 'Arial', sans-serif;
-}
+    /* Embed and use Roboto as your font. */
+    font-family: 'Roboto', 'Arial', sans-serif;}
 
 body {
     /* #2 #colorful #background */
