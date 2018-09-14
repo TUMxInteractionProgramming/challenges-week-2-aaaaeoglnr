@@ -61,6 +61,14 @@ ul{
   list-style-type: none;
 }
 
+/*Set a 16 pixels padding and a 16 pixels-high font for channels*/
+li {
+  padding: 16px;
+  font-size: 16px;
+  box-sizing: border-box;
+  height: 48px;
+}
+
 /* Highlight the color of left border of the currently selected channel */
 .selected-channel {
   margin-left: 5px solid #3F51B5;
