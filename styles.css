@@ -79,6 +79,7 @@ li img {
 /* Highlight the color of left border of the currently selected channel */
 .selected-channel {
   border-left: 4px solid #3F51B5;
+  color: #3F51B5;
 }
 
 /* Tab bar */
@@ -102,6 +103,7 @@ li img {
 /* The tab ‘New’ should be highlighted by default */
 #tab-bar > button.selected {
   border-bottom: 4px solid #3F51B5;
+  color: #3F51B5;
 }
 
 /* Background color of container element is white.*/
