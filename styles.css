@@ -104,6 +104,10 @@ li img {
   border-bottom: 4px solid #3F51B5;
 }
 
+/* Background color of container element is white.*/
+#tab-bar{
+background-color: white;
+}
 /* Messages */
 /*styles for chat area*/
 .message p {
